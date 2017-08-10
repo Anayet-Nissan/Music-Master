@@ -1,0 +1,5 @@
+Drum Notation
+
+The first thing you need to know about drum notation, is not everyone has the same way of doing things. When it comes to piano, and guitar, there is a standard to what each line represents (as for notes). However, with drums there is no real guideline. Fortunately, most music is written the same – or at least fairly similar. I will show you the basic notation for most drum music used today.
+
+What you want to do is break down every space on the measure, and make every line and space represent something. Confusing? Let me explain. The space right above the first line represents the hi hat. Hi hats and cymbals are usually marked with an “X” instead of a dot like regular notes. Here is an example:

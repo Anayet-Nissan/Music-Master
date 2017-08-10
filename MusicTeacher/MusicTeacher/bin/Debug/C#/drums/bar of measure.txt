@@ -1,0 +1,7 @@
+We will begin by going over the basic symbols and notations for standard music. When you first look at a page of music, you will notice it looks just like a bunch of lines. This is called the bar, and it is where all the notes you play will be placed on. Standard music, with melodic instruments, comes with 5 lines. However, with drumming notation, it can be anywhere from one line to 5 lines. On the left of the bar, you will notice a fraction. This fraction is the time signature of the music piece you are paying. Sometimes with sheet music, they will not have a time signature, or they will have a C in place of the fraction. This just means the piece is played in Common time, or 4/4.
+
+There will be many measures to the music. What this means is in order to organize the music easier, and allow for simpler reading, they break up each section into measures. These measures are divided by a line. An easy way to look at this is by thinking each measure consists of one whole note. Within each measure are smaller notes, (quarter notes, eighth notes, sixteenth notes…) that you play to fill in the whole note in the measure. Make sense? Here is an example of a basic sheet of music.
+
+
+
+If you didn’t already know, the black dots are called notes. They can be on any line, or in between any line of the music. They can also have different shapes and designs. I will get into those a little later.
